@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# chat_application
+
+# Chat_Application-flutter
 
 A new Flutter project.
 
@@ -16,5 +16,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# Chat_Application-flutter
->>>>>>> 2a7ebb5c09a870825a2c4db9a6ee2b8dc3db425f
+
